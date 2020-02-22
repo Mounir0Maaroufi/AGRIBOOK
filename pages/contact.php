@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> CNI</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700,900|Roboto+Mono:300,400,500"> 
+    <link rel="stylesheet" href="../fonts/icomoon/styleindex.css">
+    <link rel="stylesheet" href="../css/bootstrap.minindex.css">
+    <link rel="stylesheet" href="../css/magnific-popupindex.css">
+    <link rel="stylesheet" href="../css/jquery-uiindex.css">
+    <link rel="stylesheet" href="../css/owl.carousel.minindex.css">
+    <link rel="stylesheet" href="../../css/owl.theme.default.minindex.css">
+    <link rel="stylesheet" href="../css/bootstrap-datepickerindex.css">
+    <link rel="stylesheet" href="../css/animate.css">
+    
+    
+    <link rel="stylesheet" href="../fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="../css/fl-bigmug-lineindex.css">
+  
+
+    <link rel="stylesheet" href="../css/styleindex.css">
+    
+    
+    
+  </head>
+    
+    
+  <body>
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div> <!-- .site-mobile-menu -->
+    
+    
+    <header class="site-navbar py-1" role="banner">
+
+      <div class="container">
+        <div class="row align-items-center">
+          
+          <div class="col-6 col-xl-2">
+            <h1 class="mb-0"><a href="../index.html" class="text-black h2 mb-0">Centre National<strong>  Informatique</strong></a></h1>
+            
+          </div>
+
+          <div class="col-10 col-xl-10 d-none d-xl-block">
+            <nav class="site-navigation text-right" role="navigation">
+
+              <ul class="site-menu js-clone-nav mr-auto d-none d-lg-block">
+       <li class="active"><a href="../index.php">Acceuil</a></li>
+                <li><a href="about.php">A Propos</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="login.php">Espace Privée</a></li>
+
+                <li><a href="#"><span><span class="h5 mr-2"><img src="../images/tooplate_logo.png"></span></span></a></li>
+              </ul>
+            </nav>
+          </div>
+
+          <div class="col-6 col-xl-2 text-right d-block">
+            
+            <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a>
+              </div>
+
+          </div>
+
+        </div>
+      </div>
+      
+    </header>
+
+    <div class="unit-5 overlay" style="background-image: url('../images/hero_bg_2.jpg');">
+      <div class="container text-center">
+        <h2 class="mb-0">Contact</h2>
+        <p class="mb-0 unit-6"><a href="index.html">Acceuil</a> <span class="sep">></span> <span>Contact</span></p>
+      </div>
+    </div>
+
+    
+    
+
+    <div class="site-section bg-light">
+      <div class="container">
+        <div class="row">
+       
+          <div class="col-md-12 col-lg-8 mb-5">
+          
+            
+          
+            <form action="#" class="p-5 bg-white">
+
+              <div class="row form-group">
+                <div class="col-md-12 mb-3 mb-md-0">
+                  <label class="font-weight-bold" for="fullname">Nom & Prénom </label>
+                  <input type="text" id="fullname" class="form-control" placeholder="Nom & Prénom ">
+                </div>
+              </div>
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <label class="font-weight-bold" for="email">Email</label>
+                  <input type="email" id="email" class="form-control" placeholder="Address Email ">
+                </div>
+              </div>
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <label class="font-weight-bold" for="email">Objet</label>
+                  <input type="text" id="subject" class="form-control" placeholder="Objet">
+                </div>
+              </div>
+              
+
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <label class="font-weight-bold" for="message">Message</label> 
+                  <textarea name="message" id="message" cols="30" rows="5" class="form-control" 
+                            placeholder="Bonjour
+Ecrivez vos message"></textarea>
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <input type="submit" value="Envoyer" class="btn btn-primary  py-2 px-4">
+                </div>
+              </div>
+
+  
+            </form>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="p-4 mb-3 bg-white">
+              <h3 class="h5 text-black mb-3">Information de contact</h3>
+              <p class="mb-0 font-weight-bold">Addresse</p>
+              <p class="mb-4">17, rue Belhassen Ben Chaabane, 1005 El Omrane, Tunis Tunisie.</p>
+
+              <p class="mb-0 font-weight-bold">Telephone</p>
+              <p class="mb-4"><a href="#">+ 216 71 783 055</a></p>             
+                
+                <p class="mb-0 font-weight-bold">FAX</p>
+              <p class="mb-4"><a href="#">+ 216 71 781 862</a></p>
+
+              <p class="mb-0 font-weight-bold">Addresse Email </p>
+              <p class="mb-0"><a href="#">webcni@cni.tn</a></p>              
+                
+              <p class="mb-0 font-weight-bold">Site Web </p>
+              <p class="mb-0"><a href="#">http://www.cni.tn</a></p>
+
+            </div>
+            
+            <div class="p-4 mb-3 bg-white">
+              <h3 class="h5 text-black mb-3">Plus Informations </h3>
+              <p><a href="http://www.cni.tn/index.php/" class="btn btn-primary  py-2 px-4 rounded-0">Cliquer Ici</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+ <footer class="site-footer">
+      <div class="container">
+        
+
+   <center> 
+   <div class="col-lg-3">
+            <h3 class="footer-heading mb-4">Information de contact</h3>
+            <h3 class="footer-heading mb-4"> Centre National de l’Informatique</h3>
+            <ul class="list-unstyled">
+              <li>
+                <span class="d-block text-white">Address</span>
+                17, rue Belhassen Ben Chaabane, 1005 El Omrane, Tunis Tunisie.              
+                </li>
+              <li>
+                <span class="d-block text-white">Telephone</span>
+                  + 216 71 783 055              
+                </li>
+                
+                <li>
+                <span class="d-block text-white">FAX</span>
+                 + 216 71 781 862              
+                </li>
+                
+              <li>
+                <span class="d-block text-white">Email</span>
+                webcni@cni.tn
+              </li>
+                
+                
+                 <li>
+                <span class="d-block text-white">Website</span>
+                 http://www.cni.tn
+              </li>
+            </ul>
+            
+          </div>
+      </center>
+    
+
+     
+   <script src="../js1/jquery-3.3.1.min.js"></script>
+  <script src="../js1/jquery-migrate-3.0.1.min.js"></script>
+  <script src="../js1/jquery-ui.js"></script>
+  <script src="../js1/popper.min.js"></script>
+  <script src="../js1/bootstrap.min.js"></script>
+  <script src="../js1/owl.carousel.min.js"></script>
+  <script src="../js1/jquery.stellar.min.js"></script>
+  <script src="../js1/jquery.countdown.min.js"></script>
+  <script src="../js1/jquery.magnific-popup.min.js"></script>
+  <script src="../js1/bootstrap-datepicker.min.js"></script>
+  <script src="../js1/aos.js"></script>
+  <script src="../js1/main.js"></script>
+    
+    
+    
+  </body>
+</html>
